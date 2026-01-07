@@ -1,0 +1,55 @@
+{
+  "earnings": [
+    "💰 Your earnings are updated daily. Please check the **Earnings** tab in the bottom menu to see your total income, today's earnings, and payment history.",
+    "📊 To view your earnings: Go to **Earnings** tab → You'll see today's collection, weekly summary, and payment details.",
+    "💳 Your wallet balance and earning details are available in the **Earnings** section. Tap the wallet icon at the bottom."
+  ],
+  "order_status": [
+    "📦 You can check your current order status on the **Home** screen. Active deliveries appear at the top with pickup and delivery details.",
+    "🔍 To see all orders: Home screen shows your active delivery. Scroll down to see pending and upcoming orders.",
+    "📱 Your current delivery status is displayed on the main screen with customer address and delivery time."
+  ],
+  "pickup_issue": [
+    "🏪 If the restaurant is closed or food is not ready, please:\n1. Call the restaurant using the contact button\n2. Wait for 5-10 minutes\n3. If still delayed, contact support to report the issue.",
+    "⏳ For pickup delays: Mark 'Waiting at Restaurant' in the order screen. Our support team will be notified automatically.",
+    "🔔 If the shop is closed, please report it immediately using the 'Restaurant Closed' button in your active order."
+  ],
+  "delivery_issue": [
+    "📞 If customer is not responding:\n1. Try calling 2-3 times\n2. Send SMS from the app\n3. Wait 5 minutes at location\n4. Mark 'Customer Unavailable' in the app",
+    "📍 For wrong address: Contact customer immediately and confirm the correct location. If unable to reach, contact support.",
+    "🚫 If customer phone is switched off, mark the order as 'Unable to Deliver' and contact support for further instructions."
+  ],
+  "cancel_order": [
+    "❌ To cancel an order:\n1. Open the active delivery\n2. Tap the 'Cancel Order' button\n3. Select reason\n4. Confirm cancellation\n\n⚠️ Note: Frequent cancellations may affect your rating.",
+    "🔄 Order cancellation: Go to order details → More options (⋮) → Cancel Order → Choose reason. Please cancel only if absolutely necessary.",
+    "⚠️ To reject an order, tap on the order card → Cancel → Select reason. Multiple cancellations may impact your performance score."
+  ],
+  "support": [
+    "📞 **24/7 Support Available:**\n• Call: 1800-XXX-XXXX\n• WhatsApp: +91-XXXXX-XXXXX\n• Email: support@tiffinity.com\n\nOr tap 'Help' in the Profile tab.",
+    "🆘 Need immediate help? Contact our support team:\n• Emergency: 1800-XXX-XXXX\n• Chat with us in Profile → Help & Support\n• Raise a ticket from the app",
+    "💬 To raise a complaint: Go to Profile → Help & Support → Raise Ticket. Our team will respond within 2 hours."
+  ],
+  "navigation": [
+    "🗺️ To navigate:\n1. Tap 'Navigate to Restaurant' or 'Navigate to Customer'\n2. Choose your preferred map app (Google Maps)\n3. Follow the route\n\nNavigation starts automatically when you accept an order.",
+    "📍 For directions: Tap the navigation icon on your active order. It will open Google Maps with the destination already set."
+  ],
+  "app_usage": [
+    "📱 **Quick App Guide:**\n\n🏠 **Home:** View active deliveries\n💰 **Earnings:** Check your income\n👤 **Profile:** Account settings\n\nSwipe online/offline to start receiving orders!",
+    "🎯 **Getting Started:**\n1. Go Online from home screen\n2. Accept incoming orders\n3. Pick up from restaurant\n4. Deliver to customer\n5. Mark as completed\n\nCheck Earnings tab for your daily income!"
+  ],
+  "greeting": [
+    "👋 Hello! I'm your Tiffinity Support Assistant. How can I help you today?",
+    "Hi there! 🙋‍♂️ I'm here to assist you with deliveries, earnings, or any questions. What do you need help with?",
+    "Hello! 😊 Need help with an order, earnings, or app navigation? Just ask!"
+  ],
+  "fallback": [
+    "🤔 I didn't quite understand that. Could you please rephrase? I can help with:\n• Earnings & Payments\n• Order Status\n• Pickup/Delivery Issues\n• App Support",
+    "Sorry, I couldn't understand your question. Try asking about:\n📦 Orders\n💰 Earnings\n🏪 Pickup problems\n📞 Support contact",
+    "I'm here to help! Please ask about specific topics like:\n• Today's earnings\n• Order status\n• Restaurant issues\n• Customer problems\n• Support contact"
+  ],
+  "out_of_domain": [
+    "⚠️ I can only help with delivery-related questions. Please ask about:\n• Earnings & Payments\n• Order Management\n• Pickup/Delivery Issues\n• App Features\n• Support Contact",
+    "I'm specialized in delivery support. For other queries, please contact our general support team at 1800-XXX-XXXX.",
+    "Sorry, that's outside my expertise. I focus on delivery operations. How can I assist with your deliveries today?"
+  ]
+}
