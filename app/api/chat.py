@@ -25,3 +25,5 @@ def chat_response(message: str) -> str:
         return RESPONSES.get(predicted_intent, RESPONSES["unknown"])
 
     return "System updating. Please try again."
+
+
